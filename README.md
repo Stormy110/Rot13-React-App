@@ -1,0 +1,1 @@
+Simple React application that uses ROT13 to translate text. This cipher, known as "rotate by 13 places" is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.
